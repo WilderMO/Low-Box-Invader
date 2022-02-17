@@ -5,4 +5,4 @@ Feel free to download it and try it. I wont fix anything or update it.
 
 
 
-## [ WANTING ] I TAKE NO RESPOSIBILITY SHOULD PROBLEMS ARISE
+## [ WARNING ] I TAKE NO RESPOSIBILITY SHOULD PROBLEMS ARISE
